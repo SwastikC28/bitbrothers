@@ -11,11 +11,11 @@ Rename 'config/config.env.env' to 'config/config.env' and update the values/sett
 
 > /api/user      METHOD POST    - Creates a user in the database
  
-> /api/user/:id  METHOD GET     - Fetches the users with the provided id from the database
+> /api/user/:id  METHOD GET     - Fetches the user with the provided id from the database
  
-> /api/user/:id  METHOD PUT     - Updates the users with the provided id from the database
+> /api/user/:id  METHOD PUT     - Updates the user with the provided id from the database
 
-> /api/user/:id  METHOD DELETE  - Updates the users with the provided id from the database
+> /api/user/:id  METHOD DELETE  - Updates the user with the provided id from the database
 
 
 ## Install Dependencies
