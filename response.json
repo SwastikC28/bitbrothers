@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "data": [
+        {
+            "_id": "6186e2d355123635befd8e5b",
+            "name": "Swastik Chaudhary",
+            "userName": "swastikc28",
+            "password": "swastik123456789",
+            "__v": 0
+        },
+        {
+            "_id": "6186e2eb55123635befd8e5d",
+            "name": "Bit Brothers 1",
+            "userName": "bitbrother1",
+            "password": "123456789",
+            "__v": 0
+        },
+        {
+            "_id": "6186e2ef55123635befd8e5f",
+            "name": "Bit Brothers 2",
+            "userName": "bitbrother2",
+            "password": "123456789",
+            "__v": 0
+        },
+        {
+            "_id": "6186e2f455123635befd8e61",
+            "name": "Bit Brothers 3",
+            "userName": "bitbrother3",
+            "password": "123456789",
+            "__v": 0
+        },
+        {
+            "_id": "6186e2f755123635befd8e63",
+            "name": "Bit Brothers 4",
+            "userName": "bitbrother4",
+            "password": "123456789",
+            "__v": 0
+        },
+        {
+            "_id": "6186e2fe55123635befd8e65",
+            "name": "Bit Brothers 5",
+            "userName": "bitbrother5",
+            "password": "123456789",
+            "__v": 0
+        }
+    ]
+}
