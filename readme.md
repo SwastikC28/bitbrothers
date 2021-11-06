@@ -1,19 +1,34 @@
 # BitBrothers TASK
 
-## API for User
+> API for User with CRUD Operations
 
-### Installing Dependencies
+## Usage
+Rename 'config/config.env.env' to 'config/config.env' and update the values/settings to your own
+
+## Routes
+
+> /api/user      METHOD GET     - Fetches All the users in the database
+
+> /api/user      METHOD POST    - Creates a user in the database
+ 
+> /api/user/:id  METHOD GET     - Fetches the users with the provided id from the database
+ 
+> /api/user/:id  METHOD PUT     - Updates the users with the provided id from the database
+
+> /api/user/:id  METHOD DELETE  - Updates the users with the provided id from the database
+
+
+## Install Dependencies
 
 ```
 npm install
 ```
 
-### Running the Application
+## Run Application
 
 ```
 npm start
-
 ```
 
-> license : ISC
-> version :1.0.0
+- License : ISC
+- Version :1.0.0
